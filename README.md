@@ -1,6 +1,6 @@
-![Fernanda Barbosa](    https://a-confused-dragon.tumblr.com/image/187284755247)
- 
- Bachelor of Business Administration graduate 👩‍🎓 and passionate about learning programming 👩‍💻! I'm always seeking new challenges and opportunities to expand my knowledge in this fascinating field. 💻✨"
+![Fernanda Barbosa]
+
+Bachelor of Business Administration graduate 👩‍🎓 and passionate about learning programming 👩‍💻! I'm always seeking new challenges and opportunities to expand my knowledge in this fascinating field. 💻✨"
 
 ---
 
