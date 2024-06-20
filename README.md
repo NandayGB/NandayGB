@@ -24,8 +24,11 @@ Bachelor of Business Administration graduate 👩‍🎓 and passionate about le
 [![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NandayGB)
 
 
----
-###
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NandayGB/NandayGB/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NandayGB/NandayGB/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NandayGB/NandayGB/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 <!--
