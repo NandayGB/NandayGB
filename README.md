@@ -6,37 +6,26 @@ https://github.com/NandayGB/NandayGB/assets/112911182/91664b97-dc7d-4fc6-9a7d-a6
 Bachelor of Business Administration graduate 👩‍🎓 and passionate about learning programming 👩‍💻! I'm always seeking new challenges and opportunities to expand my knowledge in this fascinating field. 💻✨"
 
 ---
+## Language and tools 🔨
 
-### Language and tools 🔨
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-</div>
+![HTML](https://img.shields.io/badge/HTML-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=node.js&logoColor=white)
+
+## Connect with me 🔗
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbosaafernanda/)
+[![Discord](https://img.shields.io/badge/Discord-FF69B4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@fernandabarbosa_52357/)
+[![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NandayGB)
+
 
 ---
 ###
-
-### LinkedIn
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/barbosaafernanda/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-
-
 
 
 <!--
