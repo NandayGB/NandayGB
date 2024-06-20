@@ -1,4 +1,4 @@
-https://github.com/NandayGB/NandayGB/assets/112911182/61094189-8a6a-4a55-847f-58705b965bf7
+https://github.com/NandayGB/NandayGB/assets/112911182/91664b97-dc7d-4fc6-9a7d-a6739e408acd
 
 
  #  Hello 👋! I am Fernanda Barbosa
