@@ -1,6 +1,12 @@
-https://github.com/NandayGB/NandayGB/assets/112911182/91664b97-dc7d-4fc6-9a7d-a6739e408acd
 
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/0cdbcace-03d4-494b-801c-0125d0beaa0d" controls>
+    Your browser does not support the video tag.
+  </video>
+</div>
 
+ 
+ 
  #  Hello 👋! I am Fernanda Barbosa
 
 Bachelor of Business Administration graduate 👩‍🎓 and passionate about learning programming 👩‍💻! I'm always seeking new challenges and opportunities to expand my knowledge in this fascinating field. 💻✨"
