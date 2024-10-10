@@ -28,7 +28,7 @@ Bachelor of Business Administration graduate 👩‍🎓 and passionate about le
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbosaafernanda/)
 [![Discord](https://img.shields.io/badge/Discord-FF69B4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@fernandabarbosa_52357/)
 [![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NandayGB)
-[![YouTube](https://img.shields.io/badge/YouTube-FF69b4?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/NandayGB)
+[![YouTube](https://img.shields.io/badge/YouTube-FF69b4?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=clT1Jmv3wlY)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NandayGB/NandayGB/output/github-contribution-grid-snake-dark.svg">
