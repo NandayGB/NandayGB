@@ -23,7 +23,12 @@ Bachelor of Business Administration graduate 👩‍🎓 and passionate about le
 ![React](https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=node.js&logoColor=white)
 
-## Connect with me 🔗
+## Connect with me📱🔗 
+
+<img src="https://github.com/user-attachments/assets/dacc9175-95bf-4c53-8085-28f597fb4f37" 
+     alt="my" 
+     style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbosaafernanda/)
 [![Discord](https://img.shields.io/badge/Discord-FF69B4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@fernandabarbosa_52357/)
@@ -51,3 +56,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
